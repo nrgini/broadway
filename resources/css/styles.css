@@ -1,0 +1,41 @@
+h1, h2, h3, h4, p, a {
+  font-family: Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1, h4, a {
+  color: white;
+}
+
+h2, h3, p {
+  color: gray;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 18px;
+  text-align: center; display: block;
+  text-decoration: none;
+}
+
+ body {
+   text-align: center;
+ }
+#header {
+  background-image: url("./images/the-flatironbuilding.png");
+}
+
+#footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
