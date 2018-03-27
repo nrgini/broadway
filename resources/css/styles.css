@@ -40,6 +40,10 @@ a {
   background-size: cover;
 }
 
+.design {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
 #footer {
   font-size: 11px;
   background-color: dimgray;
