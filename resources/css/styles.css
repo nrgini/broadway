@@ -25,14 +25,16 @@ p {
 a {
   font-size: 18px;
   text-align: center; display: block;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
  body {
    text-align: center;
  }
-#header {
-  background-image: url("./images/the-flatironbuilding.png");
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
 }
 
 #footer {
