@@ -24,7 +24,7 @@ p {
 
 a {
   font-size: 18px;
-  text-align: center; display: block;
+  text-align: center;
 }
 
  body {
@@ -45,6 +45,15 @@ a {
 }
 
 #footer {
+  font-family: Helvetica, sans-serif;
   font-size: 11px;
+  color: white;
   background-color: dimgray;
+  text-align:left;
+}
+
+#footer-text {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  font-size: 11px;
 }
